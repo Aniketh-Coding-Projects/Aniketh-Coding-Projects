@@ -17,10 +17,10 @@ Welcome to my GitHub profile! I'm a student at Sacred Heart High School and have
 Currently focusing on:
 - Building responsive web applications with HTML, CSS, and MDL.
 - Enhancing my Python skills for more complex programming challenges.
-- Expanding my knowledge in cross-platform compatibility with Chrome OS and macOS.
+- Learning new things about the coding world like Ai development.
 
 ## 📫 Let’s Connect!
-Feel free to reach out! I’d love to collaborate on projects or just chat about tech. Connect with by sending an email @ aniketh.pamu@stu.ocsb.ca.
+Feel free to reach out! I’d love to collaborate on projects. Sending me an email @ aniketh.pamu@stu.ocsb.ca.
 
 
 Thanks for stopping by! 😊
