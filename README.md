@@ -23,5 +23,5 @@ Currently focusing on:
 Feel free to reach out! I’d love to collaborate on projects. Sending me an email @ aniketh.pamu@stu.ocsb.ca.
 
 
-Thanks for stopping by! 😊
+Thanks for stopping by!
 
